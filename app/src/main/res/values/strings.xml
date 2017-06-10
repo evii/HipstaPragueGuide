@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HipstaPragueGuide</string>
+    <string name="fragment_cofee">Hipsta Coffee</string>
+    <string name="fragment_activities">Hipsta Activities</string>
+    <string name="fragment_night">Hipsta Night</string>
+    <string name="fragment_eating">Hipsta Eating</string>
+    <string name="Muj_salek_title">Můj šálek kávy</string>
+    <string name="Muj_salek_description">Můj šálek kávy - popis</string>
+    <string name="Muj_salek_address">Můj šálek kávy - adresa</string>
+    <string name="Unijazz_title">Unijazz</string>
+    <string name="Unijazz_description">Unijazz - popis</string>
+    <string name="Unijazz_address">Unijazz - address</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
