@@ -1,18 +1,71 @@
 <resources>
     <string name="app_name">HipstaPragueGuide</string>
-    <string name="fragment_cofee">Hipsta Coffee</string>
-    <string name="fragment_activities">Hipsta Activities</string>
-    <string name="fragment_night">Hipsta Night</string>
-    <string name="fragment_eating">Hipsta Eating</string>
+    <string name="fragment_cofee">Coffee</string>
+    <string name="fragment_activities">Activity</string>
+    <string name="fragment_night">Night</string>
+    <string name="fragment_eating">Eating</string>
     <string name="Muj_salek_title">Můj šálek kávy</string>
-    <string name="Muj_salek_description">Můj šálek kávy - popis</string>
-    <string name="Muj_salek_address">Můj šálek kávy - adresa</string>
+    <string name="Muj_salek_description">Coffee legend, truly the first proper, prof run
+        specialty coffee place in Prague</string>
+    <string name="Muj_salek_address">Křižíkova 105</string>
     <string name="Unijazz_title">Unijazz</string>
-    <string name="Unijazz_description">Unijazz - popis</string>
-    <string name="Unijazz_address">Unijazz - address</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-
+    <string name="Unijazz_description">Reading room with many events through the week, ring the bell
+        to get in. </string>
+    <string name="Unijazz_address">Jindřišská 5 </string>
+    <string name="Cafe_Neustadt_title">Café Neustadt</string>
+    <string name="Cafe_Neustadt_description">Definitely one of the more hipster spots in Prague. Right in the city center.</string>
+    <string name="Cafe_Neustadt_address">Karlovo náměstí 1/23</string>
+    <string name="Kavarna_co_hleda_jmeno_title">Kavárna co hledá jméno</string>
+    <string name="Kavarna_co_hleda_jmeno_description">Charming atmosphere, vegan options, indie music, awesome working spot.</string>
+    <string name="Kavarna_co_hleda_jmeno_address">Stroupežnického 493/10</string>
+    <string name="Cafe_v_lese_title">Café V lese</string>
+    <string name="Cafe_v_lese_description">Great concerts, trendy place, chill atmosphere and good selection of drinks.</string>
+    <string name="Cafe_v_lese_address">Krymská 12</string>
+    <string name="Bistro8_title">Bistro 8</string>
+    <string name="Bistro8_description">Cute hipster cafe with snacks and delicious lunch options.</string>
+    <string name="Bistro8_address">Veverkova 8</string>
+    <string name="Meetfactory_title">MeetFactory</string>
+    <string name="Meetfactory_description">Great art\'s parties, concerts, theatre. Located in old meat factory.</string>
+    <string name="Meetfactory_address">Veverkova 8</string>
+    <string name="EMA_title">EMA espresso bar</string>
+    <string name="EMA_description">Great coffee, young people, clean simple design, friendly atmosphere.</string>
+    <string name="EMA_address">Na Florenci 1420/3</string>
+    <string name="Bio_Oko_title">Bio OKO</string>
+    <string name="Bio_Oko_description">Authentic old school atmosphere with a retro cinema.</string>
+    <string name="Bio_Oko_address">Františka Křížka 460/15</string>
+    <string name="Farm_Letna_title">The Farm Letna</string>
+    <string name="Farm_Letna_description">Cozy hipster place with perfect coffee and fresh food.</string>
+    <string name="Farm_Letna_address">Korunovační 923/17</string>
+    <string name="Plevel_title">Plevel</string>
+    <string name="Plevel_description">Raw and vegan restaurant, alternative cuisine, filling and delicious. </string>
+    <string name="Plevel_address">Krymská 2</string>
+    <string name="Rekola_title">Rekola</string>
+    <string name="Rekola_description">Old retro bicycles collected, painted pink and placed around
+        Prague. Download their app and happily ride to see Prague. </string>
+    <string name="Naplavka_title">Náplavka</string>
+    <string name="Naplavka_description">Stretch of pavement next to the banks of the Vltava
+        (Rašínovo nábřeží) with many alternative bars and restaurants.  </string>
+    <string name="Piazzeta_title">Piazzeta ND</string>
+    <string name="Piazzeta_description">Lovely area between the National Theatre and the New Stage
+        known for the alternative events, such as Dyzajn Market.  </string>
+    <string name="Bistro_Zahrada_title">Bistro Zahrada</string>
+    <string name="Bistro_Zahrada_description">Try out their cheesecake and homemade lemonade
+        while sitting outside.</string>
+    <string name="Bistro_Zahradal_address">Belgická 33</string>
+    <string name="Eska_title">Eska</string>
+    <string name="Eska_description">Restaurant with a bakery that combines the old and the new.</string>
+    <string name="Eska_address">Pernerova 49</string>
+    <string name="Vzorkovna_title">Vzorkovna</string>
+    <string name="Vzorkovna_description">If you are sick of all the posh bars around, this is a great option.</string>
+    <string name="Vzorkovna_address">Národní 339/11</string>
+    <string name="NoD_title">NoD</string>
+    <string name="NoD_description"> This versatile space is center for alternative art, music and theater.</string>
+    <string name="NoD_address">Dlouhá 33</string>
+    <string name="Jiriho_z_Podebrad_title">Jiřího z Poděbrad</string>
+    <string name="Jiriho_z_Podebrad_description">Large square in the popular Žižkov district.
+        It hosts a popular farmer’s market every Wednesday, Friday and Saturday.  </string>
+    <string name="Krymska_title">Krymská</string>
+    <string name="Krymska_description">Picturesque neighborhood with its small houses,
+        packed with small business, cafes, workshops, bars and restaurants.  </string>
+    <string name="App_title">Hipsta Prague Guide</string>
 </resources>

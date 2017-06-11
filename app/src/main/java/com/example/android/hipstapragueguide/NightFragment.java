@@ -1,6 +1,5 @@
 package com.example.android.hipstapragueguide;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -11,16 +10,11 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class NightFragment extends Fragment {
-
 
     public NightFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -29,8 +23,16 @@ public class NightFragment extends Fragment {
 
 // Create a list of places
         final ArrayList<Places> places = new ArrayList<Places>();
-        places.add(new Places(R.string.Muj_salek_title, R.string.Muj_salek_description, R.string.Muj_salek_address, R.drawable.muj));
-        places.add(new Places(R.string.Unijazz_title, R.string.Unijazz_description, R.string.Unijazz_address, R.drawable.uni));
+        places.add(new Places(R.string.Cafe_v_lese_title, R.string.Cafe_v_lese_description,
+                R.string.Cafe_v_lese_address, R.drawable.cafevlese));
+        places.add(new Places(R.string.Meetfactory_title, R.string.Meetfactory_description,
+                R.string.Meetfactory_address, R.drawable.meetfactory));
+        places.add(new Places(R.string.Bio_Oko_title, R.string.Bio_Oko_description,
+                R.string.Bio_Oko_address, R.drawable.biooko));
+        places.add(new Places(R.string.Vzorkovna_title, R.string.Vzorkovna_description,
+                R.string.Vzorkovna_address, R.drawable.vzorkovna));
+        places.add(new Places(R.string.NoD_title, R.string.NoD_description,
+                R.string.NoD_address, R.drawable.nod));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
@@ -47,5 +49,4 @@ public class NightFragment extends Fragment {
 
         return rootView;
     }
-
 }
