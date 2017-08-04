@@ -68,4 +68,6 @@
     <string name="Krymska_description">Picturesque neighborhood with its small houses,
         packed with small business, cafes, workshops, bars and restaurants.  </string>
     <string name="App_title">Hipsta Prague Guide</string>
+    <string name="web">https://goout.net/cs/praha/</string>
+
 </resources>

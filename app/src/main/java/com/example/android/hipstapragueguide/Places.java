@@ -21,6 +21,8 @@ public class Places {
      */
     private int mImageResourceId;
 
+    private String mWebId;
+
     /**
      * Create a new Places object for Coffee, Eating, Night - address included.
      *
@@ -29,11 +31,12 @@ public class Places {
      * @param addressId       is the string resource Id for the description of the place
      * @param imageResourceId is the image resource Id for the photo of the place
      */
-    public Places(int titleId, int descriptionId, int addressId, int imageResourceId) {
+    public Places(int titleId, int descriptionId, int addressId, int imageResourceId, String webId) {
         mTitleId = titleId;
         mDescriptionId = descriptionId;
         mAddressId = addressId;
         mImageResourceId = imageResourceId;
+        mWebId = webId;
     }
 
     /**
@@ -43,10 +46,11 @@ public class Places {
      * @param descriptionId   is the string resource Id for the description of the place
      * @param imageResourceId is the image resource Id for the photo of the place
      */
-    public Places(int titleId, int descriptionId, int imageResourceId) {
+    public Places(int titleId, int descriptionId, int imageResourceId, String webId) {
         mTitleId = titleId;
         mDescriptionId = descriptionId;
         mImageResourceId = imageResourceId;
+        mWebId = webId;
     }
 
     /**
@@ -82,5 +86,9 @@ public class Places {
      */
     public int getImageResourceId() {
         return mImageResourceId;
+    }
+
+    public String getWebId() {
+        return mWebId;
     }
 }
